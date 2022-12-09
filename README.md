@@ -1,5 +1,4 @@
 # pub
 asdasd
 
-# already revoked
-pypi-AgEIcHlwaS5vcmcCJDZmMGJiNjdkLTIwODYtNDNkNS1iOWJjLWEwNWJkY2Y0YmM5OAACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgSRX4Cxg4qmqyL4uSMDDX-uskFO-KhpqZ0IXRRsigkGM
+CLOJARS_009984d592aa4a2850a9f48df2afba5dde4410ac13624acef39e9ba00b05
